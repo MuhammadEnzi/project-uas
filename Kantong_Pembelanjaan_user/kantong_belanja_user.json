@@ -1,0 +1,53 @@
+[
+    {
+        "Nama Pembeli": "muhammadenzi",
+        "Item Pembelanjaan": [
+            {
+                "Nama Merek": "New York",
+                "Jenis": "Yankess White",
+                "Harga Per Item": 750000,
+                "Banyak_Item": 5,
+                "Total": 3750000
+            },
+            {
+                "Nama Merek": "Eiger",
+                "Jenis": "Tropic Trip",
+                "Harga Per Item": 370000,
+                "Banyak_Item": 10,
+                "Total": 3700000
+            }
+        ]
+    },
+    {
+        "Nama Pembeli": "EnziHerwi",
+        "Item Pembelanjaan": [
+            {
+                "Nama Merek": "Eiger",
+                "Jenis": "Tropic Trip",
+                "Harga Per Item": 370000,
+                "Banyak_Item": 5,
+                "Total": 1850000
+            }
+        ]
+    },
+    {
+        "Nama Pembeli": "upinipin",
+        "Item Pembelanjaan": []
+    },
+    {
+        "Nama Pembeli": "Herwi",
+        "Item Pembelanjaan": []
+    },
+    {
+        "Nama Pembeli": "enzi",
+        "Item Pembelanjaan": [
+            {
+                "Nama Merek": "Eiger",
+                "Jenis": "Tropic Trip",
+                "Harga Per Item": 370000,
+                "Banyak_Item": 10,
+                "Total": 3700000
+            }
+        ]
+    }
+]

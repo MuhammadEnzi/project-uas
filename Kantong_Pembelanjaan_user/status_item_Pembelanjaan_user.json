@@ -1,0 +1,42 @@
+[
+    {
+        "Nama Pembeli": "muhammadenzi",
+        "Item Pembelanjaan": [
+            {
+                "Nama Merek": "Eiger",
+                "Jenis": "Tropic Trip",
+                "Harga Per Item": 370000,
+                "Banyak_Item": 20,
+                "Total": 7400000
+            }
+        ]
+    },
+    {
+        "Nama Pembeli": "EnziHerwi",
+        "Item Pembelanjaan": []
+    },
+    {
+        "Nama Pembeli": "Herwi",
+        "Item Pembelanjaan": [
+            {
+                "Nama Merek": "Los Angeles",
+                "Jenis": "Dodgers Stone 9Forty",
+                "Harga Per Item": 690000,
+                "Banyak_Item": 5,
+                "Total": 3450000
+            }
+        ]
+    },
+    {
+        "Nama Pembeli": "enzi",
+        "Item Pembelanjaan": [
+            {
+                "Nama Merek": "New York",
+                "Jenis": "Yankess White",
+                "Harga Per Item": 750000,
+                "Banyak_Item": 12,
+                "Total": 9000000
+            }
+        ]
+    }
+]
